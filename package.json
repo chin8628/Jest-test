@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Jest test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chin8628/Jest-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chin8628/Jest-test/issues"
+  },
+  "homepage": "https://github.com/chin8628/Jest-test#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
